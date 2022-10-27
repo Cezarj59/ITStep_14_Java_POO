@@ -2,7 +2,7 @@
 
 <p>Atividade de Controle de aprendizado.</p>
 <p>Teste de controle Aula_14. Sistema de Cadastro de produtos de uma loja..</p>
-<p>Feita durante a aula.</p>
+<p>Concluida durante a aula.</p>
 
 <ul><h3>Tópicos</h3>
 <li>POO</li>
@@ -20,7 +20,7 @@
 
 
 <ol><h4>Atividades</h4>
-<li>Crie um sistema de cadastro de produtos para de lojá.</li>
+<li>Crie um sistema de cadastro de produtos para de loja.</li>
 <li>Que seja possível fazer a consulta dos cadastrados.</li>
 <li>Comece com um array com 0 casas.</li>
 <li>A cada vez que for cadastrar, aumente uma casa do array para o cadastro.</li>
