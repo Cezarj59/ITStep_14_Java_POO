@@ -1,13 +1,13 @@
 package classroom_14;
 
-import java.util.Scanner;
+
 import javax.swing.JOptionPane;
 
 public class Produto {
 
-    static Scanner read = new Scanner(System.in);
+   
     static Produto[] produto = new Produto[0];
-
+    
     String nome;
     String descricao;
     String preco;
