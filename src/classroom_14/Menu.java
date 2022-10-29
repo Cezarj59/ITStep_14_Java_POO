@@ -109,7 +109,7 @@ public class Menu {
                 case "1" ->
                     Produto.cadastroProdutos();
                 case "2" ->
-                   Funcionarios.cadastroFuncionarios();
+                    Funcionarios.cadastroFuncionarios();
                 case "3" ->
                     menu();
 

@@ -3,7 +3,7 @@ package classroom_14;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-public class Funcionarios extends Funcionarios {
+public class Funcionarios extends Produto {
 
     static Scanner read = new Scanner(System.in);
     static Funcionarios[] funcionario = new Funcionarios[0];
