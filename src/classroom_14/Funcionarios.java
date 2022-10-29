@@ -57,7 +57,7 @@ public class Funcionarios extends Produto {
 
         System.out.println("\n\n==============Relatório de Funcionarios Cadastrados==============");
 
-        if (funcionario[0] == null) {
+        if (funcionario.length == 0) {
             System.out.println("\n ## Não há Funcionarios Cadastrados! ##\n\n");
         } else {
 

@@ -62,7 +62,7 @@ public class Produto {
 
         System.out.println("\n\n==============Relatório de Produtos Cadastrados==============");
 
-        if (produto[0] == null) {
+        if (produto.length == 0) {
             System.out.println("\n ## Não há Produtos Cadastrados! ##\n\n");
         } else {
 
